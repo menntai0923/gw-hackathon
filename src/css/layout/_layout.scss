@@ -1,0 +1,23 @@
+.l-justify-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.l-justify-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.l-justify-center {
+  display: flex;
+  justify-content: center;
+}
+
+.l-justify-spaceBetween {
+  display: flex;
+  justify-content: space-between;
+}
+
+.l-header {
+  width: 100%;
+}
