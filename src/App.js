@@ -13,7 +13,6 @@ function App() {
             <ul className='l-justify-left c-menu'>
               <li className='c-menu__list'>トップ</li>
               <li className='c-menu__list'>アバウト</li>
-              <li className='c-menu__list'>記事検索</li>
             </ul>
           </nav>
         </div>
